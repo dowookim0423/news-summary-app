@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+*.pyc
+naver_article_summary_clean.py
